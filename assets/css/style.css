@@ -1,11 +1,11 @@
 body {
     padding: 15px;
-    background-image: url("../images/dark-grey-terrazzo.png");
-    /*background:
+    /*background-image: url("../images/dark-grey-terrazzo.png");*/
+    background:
         linear-gradient(red, transparent),
         linear-gradient(to top left, lime, transparent),
         linear-gradient(to top right, blue, transparent);
-    background-blend-mode: screen;*/
+    background-blend-mode: screen;
     font-family: 'Quattrocento Sans', sans-serif;
 }
 
