@@ -1,5 +1,6 @@
 # Crystal Counter Game
 A fun and interactive game for web browsers. 
+[Play the Game Here](https://mwomack117.github.io/Crystal-Counter/)
 
 ### Game Instructions
  There will be four crystals displayed as buttons on the page.
